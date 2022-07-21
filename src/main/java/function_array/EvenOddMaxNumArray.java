@@ -1,4 +1,4 @@
-package conditional_statement_loop.function_array;
+package function_array;
 
 import java.util.Scanner;
 
